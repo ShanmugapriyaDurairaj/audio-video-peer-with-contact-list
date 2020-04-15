@@ -1,0 +1,8 @@
+{
+  "name": "ionic-peer",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
